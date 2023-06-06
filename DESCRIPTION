@@ -2,7 +2,7 @@ Package: transform.hazards
 Type: Package
 Title: Transforms Cumulative Hazards to Parameter Specified by ODE
         System
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(
         person(
@@ -32,9 +32,9 @@ RoxygenNote: 7.2.1
 Encoding: UTF-8
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-12-07 07:56:04 UTC; waldir
+Packaged: 2023-06-06 09:30:43 UTC; paalcry
 Author: Pål Christie Ryalen [aut, cre]
     (<https://orcid.org/0000-0002-3236-6782>)
 Maintainer: Pål Christie Ryalen <p.c.ryalen@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2022-12-08 13:50:02 UTC
+Date/Publication: 2023-06-06 12:10:02 UTC
